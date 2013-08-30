@@ -16,3 +16,9 @@ tmp
 .yardoc
 _yardoc
 doc/
+
+# Bundle
+Gemfile.lock
+
+# Chef
+.chef/
