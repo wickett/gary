@@ -1,3 +1,3 @@
-[submodule "chef-repo/my_cookbooks/cloud-dev"]
-	path = chef-repo/my_cookbooks/cloud-dev
-	url = git@github.com:wickett/cloud-dev.git
+[submodule "chef-repo/cloud-dev"]
+	path = chef-repo/cloud-dev
+	url = git@github.com:wickett/cloud-dev

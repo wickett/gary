@@ -22,3 +22,6 @@ Gemfile.lock
 
 # Chef
 .chef/
+cookbooks
+chef-repo/cookbooks
+chef-repo/cloud-dev
